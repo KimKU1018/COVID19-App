@@ -90,9 +90,9 @@
                     </view>
                     <navigationItem key="navigationItem" id="bJl-Bc-Nc5"/>
                     <connections>
-                        <outlet property="newCaseLabel" destination="x90-u7-TcH" id="0lz-bc-5Qq"/>
+                        <outlet property="newCaseLabel" destination="p1t-bT-ti9" id="JMu-hj-c8d"/>
                         <outlet property="pieChartView" destination="tmE-6S-cy7" id="xDT-xL-wAT"/>
-                        <outlet property="totalCaseLabel" destination="mKM-mz-BNw" id="PK1-QS-49i"/>
+                        <outlet property="totalCaseLabel" destination="6vL-RQ-yqg" id="wV8-lt-fQa"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
