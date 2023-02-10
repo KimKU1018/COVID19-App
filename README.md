@@ -10,3 +10,13 @@
 - Alamofire
 - Cocoapods
 
+# 시도별 신규 확진자에 대한 파이 차트
+![Simulator Screen Shot - iPhone 14 Pro - 2023-02-10 at 12 13 10](https://user-images.githubusercontent.com/86593582/217992052-ac64574c-2e7d-44c6-a32c-f3aaf5b3ddf1.png)
+
+# 도시별 상세 현황(경기)
+![Simulator Screen Shot - iPhone 14 Pro - 2023-02-10 at 12 13 14](https://user-images.githubusercontent.com/86593582/217992051-ce16a954-c8a6-4747-94ee-4fda60f049ac.png)
+
+# 도시별 상세 현황(서울)
+![Simulator Screen Shot - iPhone 14 Pro - 2023-02-10 at 12 13 48](https://user-images.githubusercontent.com/86593582/217992049-8f499e03-48bd-4395-a5f9-88001f4f60cf.png)
+
+
